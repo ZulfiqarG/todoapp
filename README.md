@@ -9,7 +9,7 @@ This app is the perfect tool for staying organized and productive, and it's buil
 <a href="https://github.com/ZulfiqarG/todoapp"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="#">View Live Deployment</a>
+<a href="https://todoappzs.vercel.app/">View Live Deployment</a>
 ·
 <a href="https://github.com/ZulfiqarG/todoapp/issues">Report Bug</a>
 ·
